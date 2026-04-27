@@ -8,5 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello git");
         System.out.printf("Hello git2");
+        System.out.printf("Hello git3");
+        System.out.printf("Hello git4");
     }
 }
