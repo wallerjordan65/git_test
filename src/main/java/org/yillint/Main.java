@@ -12,5 +12,6 @@ public class Main {
         System.out.printf("Hello git4");
         System.out.printf("Hello git4 master");
         System.out.printf("Hello git4 hot-fix  ");
+        System.out.printf("Hello git5 remote push");
     }
 }
